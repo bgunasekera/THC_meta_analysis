@@ -13,6 +13,6 @@ Dose_egression_code = should be dose_regression_code of course. This is the regr
 
 MyMean_Hedgesg_effect_extraction_script = this extracts the "MyMean" effect size estimate from .txt files across 78 DK regions. What this means is that it averages the effect size of each study per brain region.
 
-SDM_extraction_code = this makes a mask and extracts the effect size estimate centroid of each brain region for use in regression analyses. This is linked with the MyMean_Hedgesg_effect_extraction_script
+SDM_extraction_code = this makes a mask and extracts the effect size estimate centroid of each brain region for use in regression analyses. This is linked with the MyMean_Hedgesg_effect_extraction_script. NOTE- this should be ran in cmd terminal in the meta-analysis directory 
 
 csv file named atlas-desikankillany_w_cnr1_7.4.21 contains data for main cannabinoid receptor hedges g analysis- also may not be uploaded here but on NaN server / ext hard drive
