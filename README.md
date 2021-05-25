@@ -1,5 +1,5 @@
 # THC_meta_abagen
-All files from the THC meta analysis using abagen to investrigate CB1R gene expression
+All files from the THC meta analysis using abagen to investigate CB1 and CB2 mRNA gene expression
 
 File descriptions:
 
