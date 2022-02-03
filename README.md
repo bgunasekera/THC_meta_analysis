@@ -1,3 +1,4 @@
+# THC_meta_analysis
 abagen = extract mRNA data
 
 dose_regression = THC dose vs Hedge's g effect size estimate of brain regions where there was a sig relationship found using SDM (after controlling for route of administration). 
